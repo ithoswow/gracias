@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 2rem;
+  background: #f9f9f9;
+}
+
+.container {
+  background: white;
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  display: inline-block;
+}
+
+#license-box {
+  font-size: 1.5rem;
+  font-weight: bold;
+  background: #eee;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  margin: 1rem 0;
+}
